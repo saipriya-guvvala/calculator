@@ -1,5 +1,5 @@
 body {
-  background-color: orange;
+  background-color: white;
   font-family: 'Segoe UI', sans-serif;
   display: flex;
   justify-content: center;
@@ -39,7 +39,7 @@ button {
   font-size: 20px;
   border: none;
   border-radius: 10px;
-  background-color: purple;
+  background-color: rgba(128, 0, 128, 0.521);
   cursor: pointer;
   transition: 0.2s;
 }
